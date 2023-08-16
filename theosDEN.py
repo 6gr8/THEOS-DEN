@@ -21,7 +21,7 @@ def theosTW():
     os.system("clear")
     c1 = input("""
 [1] - Tweak-Maker
-[2] - Cheak-Theos
+[2] - Check-Theos
 [3] - Setup-Theos
 [4] - Use Terminal
 [5] - Exit
