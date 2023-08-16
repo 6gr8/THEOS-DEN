@@ -20,7 +20,7 @@ printS("[-] HEY ...", delay=0.07, color=Colors.CYAN)
 def theosTW():
     os.system("clear")
     c1 = input("""
-[1] - Maker-Tweak
+[1] - Tweak-Maker
 [2] - Cheak-Theos
 [3] - Setup-Theos
 [4] - Use Terminal
